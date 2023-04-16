@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+.pricing-card {
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+.pricing-card img {
+  max-width: 100%;
+  height: auto;
+}
+.buy-now {
+  background-color: red;
+  color: #fff;
+  border-radius: 25px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+/* Explanation:
+
+The .buy-now selector targets the "buy now" button element.
+background-color sets the background color of the button to red.
+color sets the text color of the button to white.
+border-radius sets the border radius of the button to 25 pixels, giving it a curved appearance.
+padding sets the padding inside the button.
+font-size sets the font size of the button text.
+cursor sets the cursor type when hovering over the button. */
+
+
+
+
+
+
+
+
+
+
